@@ -1,4 +1,6 @@
 Systemy Kontroli Wersji
 =======================
 
-TODO: Wymień dwa typy systemów kontroli wersji
+- brak konytroli wersji
+- scentralizowany system kontroli wersji np: cvs
+- rozproszony system kontroli wersji np: git
